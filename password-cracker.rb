@@ -1,5 +1,7 @@
 require 'digest/md5'
 
+#Password cracker
+
 SALT = "FOOBAR"
 
 def match_char(char)
